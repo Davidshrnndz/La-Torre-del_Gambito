@@ -1,0 +1,15 @@
+.fondo-img{
+    background-image: url(./img/ajedrez2.jpg);
+    background-size:cover;
+    height:100vh;
+}
+.carta{
+    font-family: "Pacifico";
+}
+.slogan {
+    font-family: 'Raleway', sans-serif;
+  }
+  html {
+    scroll-padding-top: 80px;
+  }
+  
